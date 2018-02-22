@@ -5,7 +5,7 @@
     "loglevel": "info"
   },
   "inbound": {
-    "port": 43210,
+    "port": ,  // TODO
     "protocol": "vmess",
     "settings": {
       "clients": [
