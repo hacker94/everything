@@ -19,8 +19,8 @@
     "settings": {
       "vnext": [
         {
-          "address": "47.89.39.74",
-          "port": 43210,
+          "address": "",  // TODO
+          "port": ,  // TODO
           "users": [
             {
               "id": "8ae54b8f-8e73-4d69-b4a1-45ada3461be3",
